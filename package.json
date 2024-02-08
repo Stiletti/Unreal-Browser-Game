@@ -1,0 +1,14 @@
+{
+  "name": "html5",
+  "version": "1.0.0",
+  "description": "The files in this folder are all the files you need to upload to your web server.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
